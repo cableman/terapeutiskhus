@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /webvars/
+Disallow: /opdater/
+Disallow: /cms/
+
+User-agent: Googlebot
+Sitemap: http://www.terapeutiskhus.dk/sitemap.xml
